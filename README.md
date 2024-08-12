@@ -30,13 +30,13 @@ SQL (Structured Query Language) is the standard language for relational database
 To get started, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/leetcode-top-50-sql.git
+https://github.com/Piyushraj7982/SQL-50-Study-Plan-Leetcode.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd leetcode-top-50-sql
+cd SQL-50-Study-Plan-Leetcode
 ```
 
 ## LeetCode SQL Questions
