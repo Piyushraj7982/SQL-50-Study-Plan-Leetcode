@@ -1,5 +1,6 @@
 # LeetCode Top 50 SQL Questions
 
+# [🎯Crack SQL Interview in 50 Qs🎯](https://leetcode.com/studyplan/top-sql-50/)
 Welcome to the **LeetCode Top 50 SQL Questions** repository! This repository is dedicated to solving and understanding the most common SQL questions that are frequently asked in coding interviews. By working through these problems, you will strengthen your SQL skills and be better prepared for technical interviews.
 
 ## 📝 Table of Contents
