@@ -42,29 +42,13 @@ cd leetcode-top-50-sql
 
 ### Basic Queries
 
-- **[Problem 1: Question Name](https://leetcode.com/problems/...)**
-  - **Solution:** [solution.sql](solutions/basic/problem1.sql)
-  - **Explanation:** A brief explanation of the approach.
-
-- **[Problem 2: Question Name](https://leetcode.com/problems/...)**
-  - **Solution:** [solution.sql](solutions/basic/problem2.sql)
-  - **Explanation:** A brief explanation of the approach.
-
 ### Intermediate Queries
-
-- **[Problem 1: Question Name](https://leetcode.com/problems/...)**
-  - **Solution:** [solution.sql](solutions/intermediate/problem1.sql)
-  - **Explanation:** A brief explanation of the approach.
 
 ### Advanced Queries
 
-- **[Problem 1: Question Name](https://leetcode.com/problems/...)**
-  - **Solution:** [solution.sql](solutions/advanced/problem1.sql)
-  - **Explanation:** A brief explanation of the approach.
-
 ## Resources
 
-- [LeetCode SQL](https://leetcode.com/problemset/database/)
+- [LeetCode SQL](https://leetcode.com/studyplan/top-sql-50/)
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQLZoo](https://sqlzoo.net/)
 - [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
